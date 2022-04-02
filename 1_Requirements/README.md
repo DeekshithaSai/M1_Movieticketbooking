@@ -30,14 +30,22 @@ Introduction
          
    SWOT ANALYSIS:     
         STRENGTHS:    
-             1.Simple and convinent to use
-             2.Constantly updated with upcoming events and movies     
-         WEAKNESSES:
-             1.Mostly limited to urban areas (as people in india are still apprehensive for online paymenst)    
-         OPPOURTUNITIES:    
+             1.Simple and convinent to use      
+             2.Constantly updated with upcoming events and movies
+                    
+             
+             
+   WEAKNESSES:          
+            1.Mostly limited to urban areas (as peple in india are still apprehensive for online payments)
+                   
+             
+             
+   OPPORTUNITIES:      
              1.Acquring more parternship with various business entities     
-             2.Expand capabilities      
-         THREATS:     
+             2.Expand capabilities          
+             
+             
+   THREATS:     
              1.Compititive online ticketing platforms
              2.Online money theft by hackers.     
              
